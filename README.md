@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rykouille,
+- Learning CS in France, i'm a second year !
+- Trying to get better at programming in general and learn new things
